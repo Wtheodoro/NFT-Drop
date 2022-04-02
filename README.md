@@ -7,7 +7,8 @@ Check the deploy [`preview`](https://nft-drop-kohl.vercel.app/)
 
 ## `Project purpose`
 - Practice NextJS Server Side Rendering - SSR
-- Practice
+- Practice Metamask connection
+- Practice Bloackchain contract
 - Practice Tailwind
 - Practice Clean Code fundamentals
 - Experiment how Built-in Image and Automatic Image Optimization works
