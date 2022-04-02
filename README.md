@@ -1,6 +1,8 @@
 # A NextJS nft marketplace NFT DROP
 # WEB 3.0
 
+![GIF](https://github.com/Wtheodoro/NFT-Drop/blob/main/public/gif/nftdrop.gif)
+
 Check the deploy [`preview`](https://nft-drop-kohl.vercel.app/)
 
 ## `Project purpose`
