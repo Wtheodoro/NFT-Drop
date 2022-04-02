@@ -30,7 +30,7 @@ Change to Rinkeby Test Network to mint a NFT with unreal Etherium
 ### `Clone the repository`
 You can clone by using git clone on your terminal:
 
-    git clone https://github.com/Wtheodoro/airbnb-nextj
+    git clone https://github.com/Wtheodoro/NFT-Drop
 
 You can clone by click on the GitHub green button "CODE" and download the .zip
 
